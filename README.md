@@ -1,1 +1,1 @@
-# Counting-challeng
+# Counting-challenge
